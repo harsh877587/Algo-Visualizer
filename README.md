@@ -82,7 +82,7 @@ Algorithm visualizer is a react base web app where we can visualize and play wit
 Time Complexity is n^2 because here i used Two itarations .
 
 </p>
-  <img src='./Github/Images/BubbleSort.png'>
+  <img src='./Github/Images/Bubble_Sort.png'>
 
 </div>
 
@@ -95,7 +95,7 @@ Time Complexity is n^2 because here i used Two itarations .
 **Time Complexity is O(n log n)**
 
 </p>
-  <img src='./Github/Images/QuickSort.png'>
+  <img src='./Github/Images/Quick_Sort.png'>
 
 </div>
 
@@ -107,7 +107,7 @@ Time Complexity is n^2 because here i used Two itarations .
    We can add or remove element from the front, the end or from anywhere in the list. <strong style="color:red "> But in This project we can remove or add from last in list</strong>
 
 </p>
-  <img src='./Github/Images/SinglyLinkedList.png'>
+  <img src='./Github/Images/Singly_Linked_List.png'>
 
 </div>
 
@@ -118,7 +118,7 @@ Time Complexity is n^2 because here i used Two itarations .
    DFS is searching technique in a Graph . DFS means Depth first search. In this technique search will happen in depth of tree if seaching node is found then search is complete but id searching node is not found . it will backtrack .
 
 </p>
-  <img src='./Github/Images/Dfs.png'>
+  <img src='./Github/Images/Dfs_.png'>
 
 </div>
 
@@ -129,7 +129,7 @@ Time Complexity is n^2 because here i used Two itarations .
  Dijkstra is very popular algorithms. It found the sortest path between two nodes . It works in weight grarph. To find the sortest path we can use adjecency matrix or adjecency list . Here i use adjecency List .
 
 </p>
-  <img src='./Github/Images/Dijkstra.png'>
+  <img src='./Github/Images/Dijkstra_.png'>
 
 </div>
 
